@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultLabel" : "fn 4/23/2017 16:25",
+		"open" : "fn 4/23/2017 16:23" },
+	"instance" : {
+		"actionClose" : "fn 4/23/2017 16:38",
+		"actionIncrement" : "fn 4/23/2017 16:37",
+		"actionReset" : "fn 4/23/2017 16:37",
+		"buildButtonBar:" : "fn 4/23/2017 16:38",
+		"buildCloseButton:" : "fn 4/23/2017 16:38",
+		"buildIncrementButton:" : "fn 4/23/2017 16:29",
+		"buildResetButton:" : "fn 4/23/2017 16:29",
+		"buildTextField:" : "fn 4/23/2017 16:33",
+		"buildWith:" : "fn 4/23/2017 16:39",
+		"counter" : "fn 4/23/2017 16:34",
+		"currentText" : "fn 4/23/2017 16:33",
+		"labelString" : "fn 4/23/2017 16:37" } }

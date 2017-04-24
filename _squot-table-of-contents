@@ -1,0 +1,4 @@
+{
+	'/Counter-Tests.package' : #SquotCypressCodeSerializer,
+	'/Counter-Core.package' : #SquotCypressCodeSerializer
+}
