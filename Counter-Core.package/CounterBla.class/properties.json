@@ -1,0 +1,18 @@
+{
+	"category" : "Counter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ContentsSymbolQuints",
+		"EditContentsOptions",
+		"MultiWindowBrowsers" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentCompiledMethod",
+		"contentsSymbol",
+		"multiWindowState" ],
+	"name" : "CounterBla",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }
